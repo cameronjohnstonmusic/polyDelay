@@ -2,8 +2,8 @@
 	"name" : "polyDelay",
 	"version" : 1,
 	"creationdate" : 3807339672,
-	"modificationdate" : 3807342080,
-	"viewrect" : [ 583.0, 207.0, 300.0, 500.0 ],
+	"modificationdate" : 3807381916,
+	"viewrect" : [ 2239.0, 683.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -12,13 +12,13 @@
 		"patchers" : 		{
 			"delay_poly.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
 			}
 ,
 			"playback.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1
+				"local" : 1,
+				"toplevel" : 1
 			}
 ,
 			"mc.crossover_me.maxpat" : 			{
